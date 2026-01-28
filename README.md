@@ -2,18 +2,25 @@
 
 <h1>TurboMotors 🏎️</h1>
 
-*Les voitures de sport.*
+*Objectif De Voiture*
 
 ## C'est quoi ce projet ?
 
-Je crée un site web pour apprendre à coder. Le site parle de voitures.
+Je crée un site web pour apprendre à coder. Le site parle de deux voitures que j'aimerais m'acheter.
+
+## 🏁 Mes voitures de rêve
+
+<div align="center">
+  <img width="400" alt="Audi RS6" src="https://github.com/user-attachments/assets/3f6ab643-2001-4cd6-8051-2a8e1056ba35" />
+  <img width="400" alt="BMW M3 Competition" src="https://github.com/user-attachments/assets/204e0f35-867c-4cc2-a069-d170d136f52c" />
+</div>
 
 ## Catalogue
 
 | Marque | Modèle | Prix |
 |--------|--------|------|
-| Ferrari | F40 | 1 000 000€ |
-| Porsche | 911 | 100 000€ |
+| Audi | RS6 | ~132 000 € |
+| BMW | M3 Compétition | ~192 100 € |
 
 ---
 
