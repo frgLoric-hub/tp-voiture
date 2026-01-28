@@ -2,36 +2,59 @@
 
 <h1>TurboMotors 🏎️</h1>
 
-*Objectif De Voiture*
+*Mes voitures de rêve*
 
-## C'est quoi ce projet ?
+---
 
-Je crée un site web pour apprendre à coder. Le site parle de deux voitures que j'aimerais m'acheter.
+## 📖 À propos
 
-## 🏁 Mes voitures de rêve
+Site web simple créé pour apprendre le HTML et CSS. Je présente deux voitures que j'aimerais m'acheter un jour !
+
+---
+
+## 🏁 Mes voitures
 
 <div align="center">
-  <img width="400" alt="Audi RS6" src="https://github.com/user-attachments/assets/3f6ab643-2001-4cd6-8051-2a8e1056ba35" />
-  <img width="400" alt="BMW M3 Competition" src="https://github.com/user-attachments/assets/204e0f35-867c-4cc2-a069-d170d136f52c" />
+  <img width="450" alt="Audi RS6" src="https://github.com/user-attachments/assets/3f6ab643-2001-4cd6-8051-2a8e1056ba35" />
+  
+  ### Audi RS6 🔥
+  **Prix :** ~132 000 €  
+  **Puissance :** 600 ch  
+  **Pourquoi ?** Le break le plus rapide du monde !
+  
+  <br/>
+  
+  <img width="450" alt="BMW M3 Competition" src="https://github.com/user-attachments/assets/204e0f35-867c-4cc2-a069-d170d136f52c" />
+  
+  ### BMW M3 Compétition 🏁
+  **Prix :** ~192 100 €  
+  **Puissance :** 510 ch  
+  **Pourquoi ?** Pure sportive allemande !
+  
 </div>
 
-## Catalogue
+---
 
-| Marque | Modèle | Prix |
-|--------|--------|------|
-| Audi | RS6 | ~132 000 € |
-| BMW | M3 Compétition | ~192 100 € |
+## 🛠️ Codage utilisés
+
+- **HTML** - Structure du site
+- **CSS** - Design et style
 
 ---
 
-## Technologies
+## 👨‍💻 Auteur
 
-- HTML
-- CSS  
-- JavaScript
+**FLORIC-hub**
+
+📧 Email : votre.email@exemple.com  
+🔗 GitHub : [@votre-nom](https://github.com/votre-nom)
 
 ---
 
-## Auteur
+<div align="center">
+  
+💡 *Projet en cours de développement* 💡
 
-Votre nom - [Votre GitHub](https://github.com/votre-nom)
+⭐ N'hésitez pas à mettre une étoile si vous aimez ! ⭐
+
+</div>
