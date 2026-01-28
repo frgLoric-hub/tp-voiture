@@ -1,49 +1,30 @@
-# Mon Site sur les Voitures 🚗
+<img align="right" width="150" height="150" alt="logo" src="https://github.com/user-attachments/assets/209d3d66-095b-4116-b3ff-be536decfef9" />
 
-Un site web simple sur les voitures.
+<h1>TurboMotors 🏎️</h1>
 
----
+*Les voitures de sport.*
 
 ## C'est quoi ce projet ?
 
 Je crée un site web pour apprendre à coder. Le site parle de voitures.
 
----
+## Catalogue
 
-## Catalogue de voitures
-
-| Marque | Modèle | Année | Prix |
-|:-------|:------:|:-----:|-----:|
-| Ferrari | F40 | 1987 | 1 200 000€ |
-| Porsche | 911 | 2023 | 120 000€ |
-| BMW | M3 | 2024 | 85 000€ |
-
----
-
-## Ce qu'il y a dans le site
-
-- Une page d'accueil
-- Des photos de voitures
-- Des informations sur différents modèles
+| Marque | Modèle | Prix |
+|--------|--------|------|
+| Ferrari | F40 | 1 000 000€ |
+| Porsche | 911 | 100 000€ |
 
 ---
 
 ## Technologies
 
-| Langage | Utilisation |
-|---------|-------------|
-| HTML | Structure |
-| CSS | Style |
-| JavaScript | Interactivité |
+- HTML
+- CSS  
+- JavaScript
 
 ---
 
 ## Auteur
 
-Loric - [Votre GitHub](https://github.com/votre-nom)
-
----
-
-⭐ Mon premier projet web !
-
-⭐ Mon premier projet web !
+Votre nom - [Votre GitHub](https://github.com/votre-nom)
