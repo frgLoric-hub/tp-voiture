@@ -45,7 +45,3 @@ Je présente deux voitures que j'aimerais m'acheter un jour !
 🔗 GitHub : [@frgLoric-hub](https://github.com/frgLoric-hub)
 
 ---
-
-💡 *Projet en cours de développement* 💡
-
-⭐ N'hésitez pas à mettre une étoile si vous aimez ! ⭐
