@@ -44,10 +44,9 @@ Site web simple créé pour apprendre le HTML et CSS. Je présente deux voitures
 
 ## 👨‍💻 Auteur
 
-**FLORIC-hub**
-
-📧 Email : votre.email@exemple.com  
-🔗 GitHub : [@votre-nom](https://github.com/votre-nom)
+**frgLoric-hub**
+ 
+🔗 GitHub : [@frgLoric-hub](https://github.com/frgLoric-hub)
 
 ---
 
