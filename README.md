@@ -34,8 +34,7 @@ Je présente deux voitures que j'aimerais m'acheter un jour !
 
 ## 🛠️ Codage utilisé
 
-- **HTML** - Structure du site
-- **CSS** - Design et style
+- **Markdown**
 
 ---
 
